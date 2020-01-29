@@ -3,7 +3,7 @@ title: "Seeyew Mo"
 date: 2020-01-07T22:27:02-08:00
 layout: candidate
 type: election
-weight: 5
+weight: 6
 headshot: "/img/2020-march/san-francisco/seeyew-mo.jpg" 
 website: https://www.seeyewmo.com/
 donate: https://secure.actblue.com/donate/seeyew-mo-for-dccc-2020-1

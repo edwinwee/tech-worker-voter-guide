@@ -3,7 +3,7 @@ title: "Nadia Rahman"
 date: 2020-01-10T18:24:11-08:00
 layout: candidate
 type: election
-weight: 4
+weight: 5
 headshot: "/img/2020-march/san-francisco/nadia-rahman.jpg"
 website: https://nadiarahmansf.com/
 donate: https://secure.actblue.com/donate/nadia-rahman-for-democratic-county-central-committee-2020-1
