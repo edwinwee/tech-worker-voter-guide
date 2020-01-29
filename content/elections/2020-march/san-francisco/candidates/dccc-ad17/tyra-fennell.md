@@ -3,7 +3,7 @@ title: "Tyra Fennell"
 date: 2020-01-07T22:30:01-08:00
 layout: candidate
 type: election
-weight: 9
+weight: 10
 headshot: "/img/2020-march/san-francisco/tyra-fennell.jpg"
 website: https://www.tyrafennellsf.com/
 donate: https://secure.actblue.com/donate/tyra-fennell-for-dccc-2020-1

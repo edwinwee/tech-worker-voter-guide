@@ -3,7 +3,7 @@ title: "Tami Bryant"
 date: 2020-01-13T22:38:17-08:00
 layout: candidate
 type: election
-weight: 8
+weight: 9
 headshot: "/img/2020-march/san-francisco/tami-bryant.jpg"
 website: https://www.tamibryant.com/
 donate: https://secure.actblue.com/donate/tami-bryant-for-dccc-ad17-2020-1
