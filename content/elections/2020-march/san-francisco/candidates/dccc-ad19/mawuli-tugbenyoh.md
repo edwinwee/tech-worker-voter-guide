@@ -3,7 +3,7 @@ title: "Mawuli Tugbenyoh"
 date: 2020-01-15T21:58:10-08:00
 layout: candidate
 type: election
-weight: 3
+weight: 4
 headshot: "/img/2020-march/san-francisco/mawuli-tugbenyoh.jpg"
 website: https://www.mawuli2020.com/
 donate: https://secure.actblue.com/donate/mawuli-tugbenyoh-for-democratic-central-committee-2020-1
