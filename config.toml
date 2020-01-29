@@ -49,6 +49,7 @@ defaultContentLanguage = "en"
 
     top_nav = [
        "framework",
+       "advisory-board",
     ]
 
 [params.max_nav_expansion_level]
