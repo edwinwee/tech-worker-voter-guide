@@ -45,7 +45,7 @@ defaultContentLanguage = "en"
         "entry",
         "post",
         "posts",
-	"advisory-board",
+        "advisory-board",
     ]
 
     top_nav = [
